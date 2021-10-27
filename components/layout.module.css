@@ -1,0 +1,40 @@
+.mainLayout {
+  /* background: rgb(255, 246, 222);
+  background: linear-gradient(
+    207deg,
+    rgba(255, 246, 222, 1) 0%,
+    rgba(255, 165, 121, 1) 70%,
+    rgba(255, 1, 85, 1) 100%
+  ); */
+  /* background: rgb(255, 131, 178);
+  background: linear-gradient(
+    207deg,
+    rgba(255, 131, 178, 1) 37%,
+    rgba(133, 7, 246, 1) 87%
+  ); */
+  /* background: rgb(255, 131, 178);
+  background: linear-gradient(
+    207deg,
+    rgba(255, 131, 178, 1) 25%,
+    rgba(133, 7, 246, 1) 62%
+  ); */
+  background: rgb(255, 191, 215);
+  background: linear-gradient(
+    207deg,
+    rgba(255, 191, 215, 1) 25%,
+    rgba(189, 132, 240, 1) 62%
+  );
+  min-height: calc(100vh - 100px);
+  padding: 40px;
+}
+
+@media screen and (max-width: 768px) {
+  .mainLayout {
+    padding: 20px;
+  }
+
+  .top {
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+  }
+}

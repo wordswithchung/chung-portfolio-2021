@@ -1,0 +1,25 @@
+.header {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  color: #000;
+}
+
+.header > a > img {
+  width: 200px;
+  height: 60px;
+  margin-left: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .header {
+    justify-content: center;
+  }
+
+  .header > a > img {
+    margin-left: 0;
+  }
+}
