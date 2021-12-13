@@ -50,11 +50,10 @@ export default function Home() {
               </li>
               <li>
                 Shortly afterward, I started at Bill.com as a software engineer.
-                I started on the backend team (Java) and transitioned to the
-                frontend team (Angular, TypeScript). Source of tremendous pride:
-                When I started, I was the only bootcamp grad at Bill.com. By the
-                time I left, we had five other bootcamp grads from Hackbright
-                alone.
+                I was on the back end team (Java) and transitioned to the front
+                end team (Angular, TypeScript). Source of tremendous pride: When
+                I started, I was the only bootcamp grad at Bill.com. By the time
+                I left, we had five other bootcamp grads from Hackbright alone.
               </li>
               <li>
                 Since then, I've been working at PepsiCo on e-commerce solutions
@@ -64,9 +63,8 @@ export default function Home() {
             <p>
               When I'm not writing code, I am playing fetch with Lola (our
               Doberman Pinscher), maintaining my Animal Crossing island, or
-              enjoying a tasty meal with my spouse. Or, I'm sleeping. I do enjoy
-              sleeping quite a bit. (And have gotten quite good at it over the
-              years!)
+              enjoying a tasty meal with my spouse. Or, I'm sleeping. (It's
+              always nice to be well-rested!)
             </p>
           </div>
         </section>
